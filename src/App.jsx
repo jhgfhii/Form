@@ -7,7 +7,8 @@ import Aaray2data from './Components/aaray2data'
 import Form from './Components/Form'
 import Newform from './Components/Newform'
 import Lastform from './Components/Lastform'
-import { Secondform } from './Components/Secondform'
+import Secondform from './Components/Secondform'
+import Thirdform from './Components/Thirdform'
 
 
 function App() {
@@ -1718,6 +1719,7 @@ const product_list= [
     {/* <Newform/> */}
     {/* <Lastform/> */}
     <Secondform/>
+    {/* <Thirdform/> */}
     
   </>
   )
